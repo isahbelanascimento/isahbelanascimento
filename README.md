@@ -21,6 +21,6 @@
    <a href="https://www.instagram.com/isa.belanascimento/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/isahbelanascimento/isahbelanascimento/blob/output/github-contribution-grid-snake.svg)
  
 </div>
